@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: seashell;
+    display: flex;
+    justify-content: center;
+}
+
+#board {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+table {
+    width: 360px;
+    height: 360px;
+    border: 1px solid red;
+}
+
+td {
+    border: 1px solid blue;
+}
+
+tr {
+    border: 1px solid orange;
+}
